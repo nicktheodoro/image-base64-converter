@@ -1,4 +1,4 @@
-# Base64 Converter
+# Image Base64 Converter
 
 This is a simple Go program that converts an image file to Base64 and saves the Base64 representation in a text file. It provides an easy way to generate a compact Base64 representation of an image.
 
