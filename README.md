@@ -21,7 +21,7 @@ go build
 4. Run the executable using the following command:
 
 ```bash
-go run base64-converter
+go run image-base64-converter
 ```
 
 5. You will be prompted to enter the path to the image file you want to convert. Provide the full path including the file extension.
